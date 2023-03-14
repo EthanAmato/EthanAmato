@@ -8,9 +8,15 @@
 - Semantic Core NLP+Clustering Visualizer: https://tinyurl.com/semanticcoreEA 
 - Note Taking Social Media App — https://tinyurl.com/notetakerEA
 - Interactive 3D Plotting App — https://tinyurl.com/3dPlotterEA
+- IP Geolocation App - https://ip-geolocation-tracker-nu.vercel.app
+- Figma + Spline 3d Website Design - https://3d-model-demo-git-main-ethanamato.vercel.app
+
+
+
 ### Undeployed Projects
 - MERN-Stack Quiz Application: https://tinyurl.com/MERNQuizApp 
 - SpringBoot Twitter Clone: https://tinyurl.com/TwitterCloneEA 
+- Realtime Chat App - https://github.com/EthanAmato/ChatAppFrontEnd
 
 
 
