@@ -1,6 +1,6 @@
 # Hi, my name is Ethan Amato
 ### I’m interested in working in Fullstack web development but am also passionate about Data Science and Machine Learning
-### I’m currently learning about the Transformer models that make chat bots like Chat GPT-3 so special and am perfecting my skills with React, Angular, Flutter, and Springboot
+### I’m currently learning about the Transformer models that make chat bots like Chat GPT-3 so special and am perfecting my skills with React, Angular, .net, and Springboot
 ### You can reach me on https://www.linkedin.com/in/ethan-amato/
 ### Check out my Portfolio at https://ethanamato.com
 ## Some cool things I've built: 
