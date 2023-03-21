@@ -15,6 +15,7 @@
 
 ### Undeployed Projects
 - MERN-Stack Quiz Application: https://tinyurl.com/MERNQuizApp 
+- GPT-Shakespeare Pytorch Project: https://github.com/EthanAmato/GPT-Clone
 - SpringBoot Twitter Clone: https://tinyurl.com/TwitterCloneEA 
 - Realtime Chat App - https://github.com/EthanAmato/ChatAppFrontEnd
 
