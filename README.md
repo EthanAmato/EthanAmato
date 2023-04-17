@@ -3,6 +3,10 @@
 ### I’m currently learning about the Transformer models that make chat bots like Chat GPT so special and am perfecting my skills with React, Angular, .net, and Springboot
 ### You can reach me on https://www.linkedin.com/in/ethan-amato/
 ### Check out my Portfolio at https://ethanamato.com
+
+### My Stats
+[![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Some cool things I've built: 
 ### Deployed Projects
 - Semantic Core NLP+Clustering Visualizer: https://tinyurl.com/semanticcoreEA 
@@ -11,7 +15,6 @@
 - IP Geolocation App - https://ip-geolocation-tracker-nu.vercel.app
 - Figma + Spline 3d Website Design - https://3d-model-demo-git-main-ethanamato.vercel.app
 
-[![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Undeployed Projects
 - MERN-Stack Quiz Application: https://tinyurl.com/MERNQuizApp 
