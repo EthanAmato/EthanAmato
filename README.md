@@ -5,7 +5,7 @@
 ### Check out my Portfolio at https://ethanamato.com
 
 ### My Stats
-![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato&show_icons=true&theme=radical)
+![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato&show_icons=true&theme=dark)
 
 ## Some cool things I've built: 
 ### Deployed Projects
