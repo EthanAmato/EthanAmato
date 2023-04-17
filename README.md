@@ -11,7 +11,7 @@
 - IP Geolocation App - https://ip-geolocation-tracker-nu.vercel.app
 - Figma + Spline 3d Website Design - https://3d-model-demo-git-main-ethanamato.vercel.app
 
-
+[![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Undeployed Projects
 - MERN-Stack Quiz Application: https://tinyurl.com/MERNQuizApp 
