@@ -7,7 +7,7 @@
 ### My Stats
 ![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato&show_icons=true&theme=dark)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAmato&show_icons=true&theme=dark&hide=html,jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAmato&show_icons=true&theme=dark&hide=html,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Some cool things I've built: 
