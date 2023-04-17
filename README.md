@@ -6,7 +6,8 @@
 
 ### My Stats
 ![EthanAmato's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanAmato&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAmato&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAmato&show_icons=true&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Some cool things I've built: 
