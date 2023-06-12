@@ -5,7 +5,6 @@
 ### Check out my Portfolio at https://ethanamato.com
 
 ### My Stats
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanAmato&show_icons=true&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
